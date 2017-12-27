@@ -1,0 +1,21 @@
+Gravedigger1 Gravedigger2
+Gravedigger1 Hamlet
+Ghost Hamlet Horatio
+Marcellus Hamlet Barnardo Francisco Horatio
+Barnardo Hamlet Francisco Horatio
+Francisco Horatio Marcellus
+Gentleman1 Horatio
+Sailor Horatio
+Ambassadors Horatio
+Fortinbras Horatio Norwegian_Captain
+Norwegian_Captain Fortinbras Hamlet
+Hamlet Gravedigger1 Lord 1st_Player Rosencrantz Guildenstern Claudius Queen Ophelia Osric Polonius Laertes Norwegian_Captain Horatio
+Osric Hamlet Laertes Claudius Horatio
+1st_Player Hamlet Rosencrantz Polonius
+Laertes Priest Polonius Osric Hamlet Claudius Queen Ophelia
+Rosencrantz Queen Polonius Claudius Hamlet 1st_Player
+Claudius Rosencrantz Guildenstern Cornelius Voltemand Messenger1 Messenger2 Queen Ophelia Polonius Laertes Osric Hamlet
+Guildenstern Queen Claudius Hamlet
+Gentleman2 Queen
+Ophelia Queen Polonius Laertes Hamlet Claudius
+Polonius Ophelia Queen Reynaldo Laertes Hamlet 1st_Player Claudius Rosencrantz
